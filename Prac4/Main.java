@@ -13,7 +13,7 @@ public class Main {
 
         Scanner scanner = new Scanner(System.in);
         System.out.printf("Practical task 4. Variant 2. Student Kalakutin S.R. Group RIBO-04-21 \n \n");
-        System.out.printf(  "Список комманд: \n add - добавляет телефон в список | add тип(mobile/landline) серийный номер модель цвет\n" +
+        System.out.printf(  "Список комманд: \n add - добавляет телефон в список | add серийный номер цвет модель тип(mobile/landline)\n" +
                 "remove - удаляет телефон с указанным серийным номером | remove serial number \n" +
                 "clear - очищает весь список телефонов\nclose - закончит работу программы\n \n");
 
